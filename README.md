@@ -1,4 +1,4 @@
-# postgis-docker
+# LpoAuRA Dockerfiles
 
 Dockerfiles used by LpoAuRA
 
